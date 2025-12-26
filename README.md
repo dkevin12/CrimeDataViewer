@@ -1,9 +1,9 @@
 GEOG 328 Crime Data Explorer
 
 ** This Project is an Extension of the Original Group Made Project **
-Original Repository Link: 
+#Original Repository Link: 
 https://github.com/206ET/GEOG328_GroupAC2_CrimeData
-Original Website Link:
+#Original Website Link:
 https://206et.github.io/GEOG328_GroupAC2_CrimeData/
 
 # Project description
